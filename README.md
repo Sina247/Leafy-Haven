@@ -16,4 +16,4 @@ Transform your space into a serene **Leafy Haven** with our curated collection o
  ---
  
 ## 🖼️ Screenshot
-![Uploading Screenshot 2026-05-30 101002.png…]()
+<img width="1919" height="941" alt="Screenshot 2026-05-30 101002" src="https://github.com/user-attachments/assets/59110fa8-8436-4b43-bddc-40a27d0af8d9" />
