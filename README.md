@@ -12,3 +12,8 @@ Transform your space into a serene **Leafy Haven** with our curated collection o
 - 📱 **Easy Browsing** : Clean and responsive layout for seamless viewing on any device.  
 - ⚡ **Lightweight Design** : Fast and smooth interface with minimal load times.  
 - 🖼️ **Engaging Experience** : Visually appealing presentation to inspire and delight plant lovers.  
+
+ ---
+ 
+## 🖼️ Screenshot
+![Uploading Screenshot 2026-05-30 101002.png…]()
